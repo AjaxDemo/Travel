@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete 11 resources" deleteContents="false" description="Delete 11 resources" element1="/travel-controller-console" element10="/travel-service-product" element11="/travel-service-solr" element2="/travel-controller-login" element3="/travel-controller-portal" element4="/travel-jar-common" element5="/travel-jar-dao" element6="/travel-jar-interface" element7="/travel-jar-pojo" element8="/travel-service-cms" element9="/travel-service-consumer" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="11" stamp="1496822125803"/>
+</session>

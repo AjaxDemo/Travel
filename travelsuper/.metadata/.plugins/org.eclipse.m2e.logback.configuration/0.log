@@ -1,0 +1,103 @@
+2017-06-07 15:34:06,023 [Worker-1] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2017-06-07 15:54:04,940 [Worker-19] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.travel:travel-controller-portal:0.0.1-SNAPSHOT @ F:\travelsuper\travel-controller-portal\pom.xml.
+2017-06-07 15:54:05,412 [Worker-19] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.travel:travel-controller-login:0.0.1-SNAPSHOT @ F:\travelsuper\travel-controller-login\pom.xml.
+2017-06-07 15:54:05,580 [Worker-19] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.travel:travel-controller-console:0.0.1-SNAPSHOT @ F:\travelsuper\travel-controller-console\pom.xml.
+2017-06-07 15:54:05,950 [Worker-19] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.travel:travel-jar-common:0.0.1-SNAPSHOT @ F:\travelsuper\travel-jar-common\pom.xml.
+2017-06-07 15:54:06,274 [Worker-19] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.travel:travel-jar-pojo:0.0.1-SNAPSHOT @ F:\travelsuper\travel-jar-pojo\pom.xml.
+2017-06-07 15:54:06,435 [Worker-19] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.travel:travel-jar-dao:0.0.1-SNAPSHOT @ F:\travelsuper\travel-jar-dao\pom.xml.
+2017-06-07 15:54:06,554 [Worker-19] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.travel:travel-jar-interface:0.0.1-SNAPSHOT @ F:\travelsuper\travel-jar-interface\pom.xml.
+2017-06-07 15:54:06,657 [Worker-19] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.travel:travel-service-product:0.0.1-SNAPSHOT @ F:\travelsuper\travel-service-product\pom.xml.
+2017-06-07 15:54:06,760 [Worker-19] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.travel:travel-service-solr:0.0.1-SNAPSHOT @ F:\travelsuper\travel-service-solr\pom.xml.
+2017-06-07 15:54:06,849 [Worker-19] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.travel:travel-service-consumer:0.0.1-SNAPSHOT @ F:\travelsuper\travel-service-consumer\pom.xml.
+2017-06-07 15:54:06,948 [Worker-19] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.travel:travel-service-cms:0.0.1-SNAPSHOT @ F:\travelsuper\travel-service-cms\pom.xml.
+2017-06-07 15:54:33,855 [Worker-19] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /travel-jar-common/src/main/java
+2017-06-07 15:54:33,856 [Worker-19] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /travel-jar-common/src/main/resources
+2017-06-07 15:54:33,858 [Worker-19] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /travel-jar-common/src/test/java
+2017-06-07 15:54:33,860 [Worker-19] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /travel-jar-common/src/test/resources
+2017-06-07 15:54:34,116 [Worker-19] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /travel-jar-pojo/src/main/java
+2017-06-07 15:54:34,116 [Worker-19] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /travel-jar-pojo/src/main/resources
+2017-06-07 15:54:34,117 [Worker-19] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /travel-jar-pojo/src/test/java
+2017-06-07 15:54:34,118 [Worker-19] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /travel-jar-pojo/src/test/resources
+2017-06-07 15:54:34,268 [Worker-19] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /travel-jar-dao/src/main/java
+2017-06-07 15:54:34,269 [Worker-19] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /travel-jar-dao/src/main/resources
+2017-06-07 15:54:34,271 [Worker-19] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /travel-jar-dao/src/test/java
+2017-06-07 15:54:34,271 [Worker-19] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /travel-jar-dao/src/test/resources
+2017-06-07 15:54:34,525 [Worker-19] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /travel-controller-login/src/main/java
+2017-06-07 15:54:34,525 [Worker-19] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /travel-controller-login/src/main/resources
+2017-06-07 15:54:34,526 [Worker-19] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /travel-controller-login/src/test/java
+2017-06-07 15:54:34,527 [Worker-19] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /travel-controller-login/src/test/resources
+2017-06-07 15:54:37,159 [Worker-19] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /travel-service-consumer/src/main/java
+2017-06-07 15:54:37,159 [Worker-19] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /travel-service-consumer/src/main/resources
+2017-06-07 15:54:37,161 [Worker-19] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /travel-service-consumer/src/test/java
+2017-06-07 15:54:37,161 [Worker-19] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /travel-service-consumer/src/test/resources
+2017-06-07 15:54:37,442 [Worker-19] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /travel-service-cms/src/main/java
+2017-06-07 15:54:37,443 [Worker-19] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /travel-service-cms/src/main/resources
+2017-06-07 15:54:37,447 [Worker-19] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /travel-service-cms/src/test/java
+2017-06-07 15:54:37,447 [Worker-19] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /travel-service-cms/src/test/resources
+2017-06-07 15:54:37,723 [Worker-19] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /travel-controller-portal/src/main/java
+2017-06-07 15:54:37,723 [Worker-19] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /travel-controller-portal/src/main/resources
+2017-06-07 15:54:37,725 [Worker-19] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /travel-controller-portal/src/test/java
+2017-06-07 15:54:37,725 [Worker-19] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /travel-controller-portal/src/test/resources
+2017-06-07 15:54:38,115 [Worker-19] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /travel-jar-interface/src/main/java
+2017-06-07 15:54:38,116 [Worker-19] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /travel-jar-interface/src/main/resources
+2017-06-07 15:54:38,117 [Worker-19] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /travel-jar-interface/src/test/java
+2017-06-07 15:54:38,118 [Worker-19] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /travel-jar-interface/src/test/resources
+2017-06-07 15:54:38,269 [Worker-19] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /travel-service-product/src/main/java
+2017-06-07 15:54:38,269 [Worker-19] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /travel-service-product/src/main/resources
+2017-06-07 15:54:38,270 [Worker-19] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /travel-service-product/src/test/java
+2017-06-07 15:54:38,270 [Worker-19] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /travel-service-product/src/test/resources
+2017-06-07 15:54:38,517 [Worker-19] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /travel-controller-console/src/main/java
+2017-06-07 15:54:38,518 [Worker-19] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /travel-controller-console/src/main/resources
+2017-06-07 15:54:38,519 [Worker-19] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /travel-controller-console/src/test/java
+2017-06-07 15:54:38,519 [Worker-19] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /travel-controller-console/src/test/resources
+2017-06-07 15:54:38,723 [Worker-19] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /travel-service-solr/src/main/java
+2017-06-07 15:54:38,723 [Worker-19] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /travel-service-solr/src/main/resources
+2017-06-07 15:54:38,724 [Worker-19] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /travel-service-solr/src/test/java
+2017-06-07 15:54:38,725 [Worker-19] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /travel-service-solr/src/test/resources
+2017-06-07 15:54:38,913 [Worker-19] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 11 project(s) in 50 sec
+2017-06-07 15:54:40,767 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-07 15:54:40,791 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-06-07 15:54:40,793 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-07 15:54:40,809 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-06-07 15:54:40,902 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-07 15:54:40,920 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-06-07 15:54:40,922 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-07 15:54:40,940 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-06-07 15:54:41,054 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-07 15:54:41,070 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-06-07 15:54:41,072 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-07 15:54:41,090 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-06-07 15:54:41,656 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-07 15:54:41,673 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-06-07 15:54:41,676 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-07 15:54:41,696 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-06-07 15:54:42,634 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-07 15:54:42,661 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-06-07 15:54:42,663 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-07 15:54:42,701 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-06-07 15:54:43,063 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-07 15:54:43,086 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-06-07 15:54:43,089 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-07 15:54:43,114 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-06-07 15:54:43,551 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-07 15:54:43,624 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-06-07 15:54:43,628 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-07 15:54:43,683 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-06-07 15:54:43,849 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-07 15:54:43,943 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-06-07 15:54:43,947 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-07 15:54:43,997 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-06-07 15:54:44,169 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-07 15:54:44,240 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-06-07 15:54:44,243 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-07 15:54:44,277 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-06-07 15:54:44,435 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-07 15:54:44,465 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-06-07 15:54:44,467 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-07 15:54:44,487 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-06-07 15:54:44,692 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-07 15:54:44,733 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-06-07 15:54:44,735 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-07 15:54:44,789 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-06-07 15:55:23,594 [Worker-26] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.travel:travel-jar-pojo:0.0.1-SNAPSHOT @ F:\travelsuper\travel-jar-pojo\pom.xml.
+2017-06-07 15:55:23,653 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.travel:travel-jar-common:jar:0.0.1-SNAPSHOT is missing, no dependency information available

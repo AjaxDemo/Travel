@@ -5,6 +5,6 @@ public class Test1 {
 		System.out.println("hello world");
 		System.out.println("修改编码git");
 		System.out.println("which on is right");
-		System.out.println("tra2修改编码");
+		System.out.println("tra修改编码");
 	}
 }

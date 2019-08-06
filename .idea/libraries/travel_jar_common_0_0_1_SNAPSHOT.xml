@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="travel-jar-common-0.0.1-SNAPSHOT">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/travelsuper/travel-jar-common/target/travel-jar-common-0.0.1-SNAPSHOT.jar!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>
